@@ -1,6 +1,5 @@
 const { response } = require('express')
 const express = require('express')
-const nodemon = require('nodemon')
 const app = express()
 const cors = require('cors')
 
